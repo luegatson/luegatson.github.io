@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://luegatson.github.io/luegatson.txt.gz
+Sitemap: https://luegatson.github.io/app/luegatson.txt.gz
+Sitemap: https://luegatson.github.io/assets/luegatson.txt.gz
+Sitemap: https://luegatson.github.io/css/luegatson.txt.gz
+Sitemap: https://luegatson.github.io/includes/luegatson.txt.gz
+Sitemap: https://luegatson.github.io/item/luegatson.txt.gz
+Sitemap: https://luegatson.github.io/src/luegatson.txt.gz
